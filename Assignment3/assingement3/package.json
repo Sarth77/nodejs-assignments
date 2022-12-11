@@ -1,0 +1,14 @@
+{
+  "name": "assingement3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fs.js",
+  "scripts": {
+    "start": "node fs.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  },
+  "author": "sahil",
+  "license": "ISC"
+}
